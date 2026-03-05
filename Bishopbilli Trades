@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BishopBilli Trades</title>
+
+<style>
+body{
+font-family: Arial, sans-serif;
+background:#f5f7fb;
+margin:0;
+text-align:center;
+}
+
+.header{
+background:#1e3c72;
+color:white;
+padding:25px;
+font-size:28px;
+font-weight:bold;
+}
+
+.section{
+padding:30px;
+}
+
+.badge{
+display:inline-block;
+background:#e8eefc;
+padding:10px 15px;
+margin:6px;
+border-radius:6px;
+font-weight:bold;
+}
+
+.button{
+background:#00a859;
+color:white;
+padding:15px 25px;
+text-decoration:none;
+font-size:18px;
+border-radius:6px;
+font-weight:bold;
+}
+
+.footer{
+margin-top:40px;
+font-size:14px;
+color:#666;
+}
+</style>
+</head>
+
+<body>
+
+<div class="header">
+BISHOPBILLI TRADES
+</div>
+
+<div class="section">
+
+<h3>Fast & Trusted Trades</h3>
+
+<div>
+<span class="badge">PayPal</span>
+<span class="badge">CashApp</span>
+<span class="badge">Venmo</span>
+<span class="badge">Zelle</span>
+<span class="badge">Gift Cards</span>
+</div>
+
+<br>
+
+<p><strong>All Accounts Active</strong></p>
+
+<a class="button" href="https://wa.me/2348100813372?text=Hello%20I%20want%20to%20trade">
+Chat on WhatsApp
+</a>
+
+</div>
+
+<div class="footer">
+© BishopBilli Trades
+</div>
+
+</body>
+</html>
